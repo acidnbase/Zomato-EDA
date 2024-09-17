@@ -1,4 +1,7 @@
-Zomato has an average of 17.5 million monthly transacting customers for its food delivery business. Average monthly active food delivery restaurant partners on Zomato's platform have also increased by 8.7% year-on-year , from 208,000 to 226,000.
+# Zomato has an average of 17.5 million monthly transacting customers for its food delivery business. Average monthly active food delivery restaurant partners on Zomato's platform have also increased by 8.7% year-on-year , from 208,000 to 226,000.
+
+# Objective
+This project involves an Exploratory Data Analysis (EDA) on Zomato restaurant data to gain insights into customer preferences and behavior. The goal is to analyze various aspects of the data to provide actionable insights for Zomato, such as restaurant types preferred by customers, voting patterns, ratings, and spending habits.
 
 # Questions Addressed:
 1. What type of restaurants do majority of customers order from?
@@ -8,5 +11,5 @@ Zomato has an average of 17.5 million monthly transacting customers for its food
 5. Which mode (online or offline) has received the maximum rating?
 6. Which type of restaurant received more offline orders, so that Zomato can provide those customers with some good offers?
 
-#Conclusion
+# Conclusion
 The EDA provided valuable insights into customer preferences and behavior. Key findings include the most popular restaurant types, the comparison of ratings between order modes, and the spending habits of couples. These insights can be leveraged by Zomato to enhance their services and promotional strategies.
